@@ -1,2 +1,4 @@
 I am Bhupesh Dhesingurajan, a 2024 Computer Science graduate with a CGPA of 7.9. I have experience in Python, Java, Django, Tkinter, and databases like MySQL and SQLite.
- I’ve worked on projects involving web development and software applications, and I'm eager to apply my skills to real-world challenges
+I’ve worked on projects involving web development and software applications, and I'm eager to apply my skills to real-world challenges
+
+You can reach me at rajanbhupesh@gmail.com or 9597233348.
