@@ -2,3 +2,11 @@ I am Bhupesh Dhesingurajan, a 2024 Computer Science graduate with a CGPA of 7.9.
 I’ve worked on projects involving web development and software applications, and I'm eager to apply my skills to real-world challenges
 
 You can reach me at rajanbhupesh@gmail.com or 9597233348.
+
+Skills:
+Programming Languages: Python, Java
+Web Development: HTML, CSS, Bootstrap
+Frameworks: Django, Tkinter
+Databases: MySQL, SQLite, MongoDB, PostgreSQL
+Version Control: Git, GitHub
+Software Tools: PyCharm, Visual Studio Code
